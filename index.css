@@ -1,0 +1,106 @@
+ .links a{
+     font-size: 20px;
+     background-color: blanchedalmond;
+     color: green;
+     margin-right: 13px;
+     margin-bottom: 15px;
+     padding-top: 8px;
+ }
+
+ .jumbotron .container{
+     text-align: center;
+ }
+
+ .jumbotron{
+     background-blend-mode: saturation;
+ }
+
+ .container .row{
+     background-color: blanchedalmond;
+     width: 90%;
+     border-radius: 20px;
+     text-align: center;
+     padding-bottom: 15px;
+     margin-left: 5%;
+ }
+
+ .card{
+     width: 19%;
+     margin-left: 10%;
+     margin-top: 7%;
+     border: solid yellow;
+
+ }
+
+.card a{
+    display: grid;
+    align-content: center;
+    /* float: left; */
+    /* display: inline flow-root list-item; */
+}
+
+ .card .card-body{
+     background-color: wheat;
+     margin-top: -10px;
+ }
+
+ .container{
+     margin-top: 30px;
+ }
+
+ .card-body .card-title{
+    padding-top: 10px;
+}
+
+.row-header {
+    margin: 0px auto;
+    padding: 0px auto;
+}
+
+.row-content {
+    margin: 0px auto;
+    padding: 50px 5px 50px 5px;
+    border-bottom: 1px ridge;
+    min-height: 360px;
+}
+
+
+.footer {
+    margin: 0px auto;
+    background-color: rgb(250, 193, 242);
+    padding: 20px 0px 20px 0px;
+}
+
+.title {
+    background-color: azure;
+    padding: 70px 2px 70px 2px;
+    border-left: 1px ridge;
+}
+
+.title2 {
+    background-color: azure;
+    padding: 70px 2px 70px 2px;
+    border-right: 1px ridge;
+}
+/* 
+.jumbotron {
+    padding: 70px 30px 70px;
+    margin: 0px auto;
+    background: rgb(202, 35, 35);
+    color: rebeccapurple;
+} */
+
+.address {
+    font-size: 80%;
+    margin: 0px auto;
+    color: #0f0f0f;
+}
+/* 
+body {
+    padding: 50px 0px 0px 0px;
+    z-index: 0;
+} */
+
+.navbar-dark {
+    background-color: #512DAB;
+}
